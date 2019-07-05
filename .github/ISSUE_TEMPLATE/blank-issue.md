@@ -1,6 +1,6 @@
 ---
-name: Blank Issue
-about: Consistent formatting make Issues concise and easy to navigate
+name: New Idea
+about: Use this template to identify new ideas that could be developed into Hack for LA projects.
 title: ''
 labels: ''
 assignees: ''
@@ -8,12 +8,13 @@ assignees: ''
 ---
 
 ### Overview
-REPLACE THIS TEXT -Text here that clearly states the purpose of this issue in 2 sentences or less.
+REPLACE THIS TEXT -Text here that clearly states the idea in 2 sentences or less.
 
 ### Action Items
-REPLACE THIS TEXT -If this is the beginning of the task this is most likely something to be researched and documented.
+REPLACE THIS TEXT -If there are any action items associated with growing this idea into a project, please list them here.
 
-REPLACE THIS TEXT -If the issue has already been researched, and the course of action is clear, this will describe the steps.  However, if the steps can be divided into tasks for more than one person, we recommend dividing it up into separate issues, or assigning it as a pair programming task.
+### Research
+REPLACE THIS TEXT -If there is a website which has information that helps with this issue provide the link(s) here.
 
-### Resources/Instructions
-REPLACE THIS TEXT -If there is a website which has documentation that helps with this issue provide the link(s) here.
+### Stakeholders
+REPLACE THIS TEXT -If there are obvious stakeholders list them here.  Projects can have non-profits, city, county, or state partners as well as other stakeholders.
